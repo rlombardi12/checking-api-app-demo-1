@@ -1,0 +1,24 @@
+{
+  "name": "checking-app",
+  "version": "1.0.0",
+  "description": "Checking-App - Confirm your seat!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mogoose",
+    "Checking",
+    "Airlines"
+  ],
+  "author": "dhag",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
