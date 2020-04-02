@@ -30,7 +30,7 @@ mongoose.connection.once('open', function() {
 
 // define a simple route
 app.get('/', function(req, res){
-    res.json({"message": "Welcome to Checkin-App. Confirm your Seat quickly."});
+    res.json({"message": "--F5 LATAM SUMMIT REVOLUTION 2019-- Welcome to the Checkin-App. Please, confirm your Seat quickly!!."});
 });
 
 
